@@ -2,45 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>荷狸的家</title>
-    <link>https://kanghsi1006.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on 荷狸的家</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Apr 2026 10:07:47 +0600</lastBuildDate>
-    <atom:link href="https://kanghsi1006.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 May 2026 10:07:47 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>最近身材走中啦</title>
+      <link>http://localhost:1313/blog/post-6/</link>
+      <pubDate>Mon, 11 May 2026 10:07:47 +0600</pubDate>
+      <guid>http://localhost:1313/blog/post-6/</guid>
+      <description>&lt;p&gt;最近身材大走中。自從四月國王節買了一瓶威士忌之後，陸陸續續喝了不少酒。上週末台灣之夜喝了一堆台啤還有威士忌，加上台灣美食的催化真的是瞬間走中。看來八月回台灣不能太放縱，必須舉步維艱，否則一不小心會跌入萬丈肥胖深淵。另外，阿夯視訊檢查的結果也證實我的預感是真的，體態走下坡囉。於是本人於今天立下誓言，開始大改造計畫。預計每天五點半起床、六點健身房報到。不求練得多，只求持之以恆。晚上再去健身房跑體能讓心肺功能正常操練一下。&lt;/p&gt;&#xA;&lt;h6 id=&#34;今天課表早&#34;&gt;今天課表（早）：&lt;/h6&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;臥推50＊40&lt;/li&gt;&#xA;&lt;li&gt;間推20＊40&lt;/li&gt;&#xA;&lt;li&gt;配速13*10分鐘&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h5 id=&#34;課表晚&#34;&gt;課表（晚）：&lt;/h5&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;配素13*10分鐘 3組&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;明天繼續努力，晚安&lt;/p&gt;</description>
+    </item>
     <item>
       <title>TED Riddles 囚犯的帽子</title>
-      <link>https://kanghsi1006.github.io/blog/post-5/</link>
+      <link>http://localhost:1313/blog/post-5/</link>
       <pubDate>Wed, 29 Apr 2026 10:07:47 +0600</pubDate>
-      <guid>https://kanghsi1006.github.io/blog/post-5/</guid>
+      <guid>http://localhost:1313/blog/post-5/</guid>
       <description>&lt;h1 id=&#34;謎題&#34;&gt;謎題&lt;/h1&gt;&#xA;&lt;p&gt;你和你的九個同伴被關在一個小房間．綁架你們外星人說，等等你們會被帶出房間並按照身高排序，並且每一個人會被隨機分配一頂帽子，黑色或白色的．接下來，從&lt;strong&gt;最後面&lt;/strong&gt;的人開始，外星人會一個一個的問問題：“你頭上的帽子是黑色還是白色？”只要十個人中有九個人中達對自己頭上帽子的顏色，那麼所有人都會被釋放，不然外星人就會把你們吃光光喔．&lt;/p&gt;&#xA;&lt;p&gt;而詳細的規則如下：&lt;/p&gt;&#xA;&lt;h4&gt;&lt;/h4&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;每個人只能回答黑色或白色，不能說其他的答案，不然就直接把大家吃掉．&lt;/li&gt;&#xA;&lt;li&gt;以非語言的形式打pass也會被吃掉唷 ：）&lt;/li&gt;&#xA;&lt;li&gt;每個人可以看到&lt;strong&gt;前方&lt;/strong&gt;所有人的帽子顏色，但看不到自己以及自己身後的人的帽子顏色．&lt;/li&gt;&#xA;&lt;li&gt;你們必須在小房間內討論好策略，當離開房間後便不能討論，且此時帽子才會被分配到每個人頭上．&lt;/li&gt;&#xA;&lt;li&gt;帽子顏色為隨機分配．&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h5 id=&#34;youtube-video&#34;&gt;Youtube video&lt;/h5&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/N5vJSNXPEwA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;h1 id=&#34;解答&#34;&gt;解答&lt;/h1&gt;&#xA;&lt;p&gt;十個人中只要九個人打對就可以逃離，因此要好好的利用第一個回答來打pass．以下為其中一種策略：&lt;/p&gt;</description>
     </item>
     <item>
       <title>黑石深淵逛街</title>
-      <link>https://kanghsi1006.github.io/blog/post-4/</link>
+      <link>http://localhost:1313/blog/post-4/</link>
       <pubDate>Sun, 26 Apr 2026 10:07:47 +0600</pubDate>
-      <guid>https://kanghsi1006.github.io/blog/post-4/</guid>
+      <guid>http://localhost:1313/blog/post-4/</guid>
       <description>&lt;p&gt;昨天把下個月的魔獸subscription取消了，預計5/21就會正式afk．在那之前，我們想說可以把艾澤拉斯的副本打一打，可以的話tbc副本&amp;mdash;破碎的大廳也打一打．而今天我們決定去黑石深淵逛街．&lt;/p&gt;&#xA;&lt;p&gt;之前我有自己來黑石深淵過，不過那時候沒查攻略，光是找路口就花了十幾分鐘．好不容易找到入口，逛到副本裡面的競技場時，肚子卻開始餓了．煮飯｀吃飯｀洗盤子完，登入帳號後發現已經被傳到副本外面了．&lt;/p&gt;&#xA;&lt;p&gt;這次有哥哥帶路，一路順遂．哥哥有一把鑰匙，可以打開捷徑．進副本後三十秒，我們已經來到了競技場之後的進度（真的是差好多）．哥哥說，這裡是進入拉格納羅斯（熔火之心）的必經之路，上次跟工會的老玩家玩，他們都熟門熟路的．正當想說可以直通尾王時，來到了一扇上鎖的門．這次哥哥的鑰匙打不開了，而先前都是由其他玩家開門，所以哥哥也沒有這把鑰匙．這時哥哥說他找一下攻略，而我無聊就先把附近的怪刷一刷．&lt;/p&gt;&#xA;&lt;p&gt;攻略說，原來門旁有一個npc會販賣鑰匙．&lt;/p&gt;&#xA;&lt;p&gt;回到五分鐘前，哥哥說他之前都會來把這個npc殺掉，因為他會掉落一個不錯的披風．&lt;/p&gt;&#xA;&lt;p&gt;沒錯，我就好死不死把這個npc幹掉了．後來哥哥說，不然我們把這個房間的怪清一清，看看會不會掉鑰匙．就這樣我們開始屠殺這邊的npc．我一直覺得奇怪，這邊的npc是黑鐵矮人，但怎麼都會有火元素跑出來，而且站在那個鎖住的大門前面．突然我瞥到那個大門打開了，裡面走出了新的火元素．我跟哥哥趕緊跑了進去．我覺得魔獸玩家99.99%不知道有這個機制，一定沒有人像我們這麼有毅力，還在旁邊將npc趕盡殺絕打鑰匙．&lt;/p&gt;&#xA;&lt;p&gt;後面一路速通來到王前．發現他們竟然在王前面放四張椅子．於是就有了標題照片，兩隻牛頭人坐在王前面的椅子跟王合影．&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h5 id=&#34;youtube-video&#34;&gt;Youtube video&lt;/h5&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/DEz-mqhwvKM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
     </item>
     <item>
       <title>今日嘴ㄆㄧㄚˊ</title>
-      <link>https://kanghsi1006.github.io/blog/post-2/</link>
+      <link>http://localhost:1313/blog/post-2/</link>
       <pubDate>Sat, 25 Apr 2026 10:07:47 +0600</pubDate>
-      <guid>https://kanghsi1006.github.io/blog/post-2/</guid>
+      <guid>http://localhost:1313/blog/post-2/</guid>
       <description>&lt;p&gt;阿夯今日嘴ㄆㄧㄚˊ：&lt;/p&gt;&#xA;&lt;h1 id=&#34;好路不擋狗&#34;&gt;好路不擋狗&lt;/h1&gt;&#xA;&lt;p&gt;阿夯今天在山路上遇到一隻狗狗擋在路中間，非常霸道．阿夯激動之下脫口而出，把好狗不擋路講成好路不擋狗了．&lt;/p&gt;&#xA;&lt;h1 id=&#34;歐摸go&#34;&gt;歐摸go&lt;/h1&gt;&#xA;&lt;p&gt;阿夯想說歐摸又想說oh my god，於是歐摸go誕生了&lt;/p&gt;</description>
     </item>
     <item>
       <title>準備AFK魔獸了</title>
-      <link>https://kanghsi1006.github.io/blog/post-3/</link>
+      <link>http://localhost:1313/blog/post-3/</link>
       <pubDate>Sat, 25 Apr 2026 10:07:47 +0600</pubDate>
-      <guid>https://kanghsi1006.github.io/blog/post-3/</guid>
+      <guid>http://localhost:1313/blog/post-3/</guid>
       <description>&lt;p&gt;跟哥哥討論，這個月結束應該就會正式AFK魔獸．這半年來，練了一隻TBC滿級牛頭人戰士，存了5000g卻發現不能跳過初級飛行，到頭來還差1000g才能買大鳥．雖然最後湊齊了pre raid bis卻沒有打過任何一場公會raid團．&lt;/p&gt;&#xA;&lt;p&gt;最好玩的時候果然還是拓荒時期，每天看著角色慢慢成長，從打一隻怪吃一個食物，到後來慢慢成了獨當一面的戰坦，真的會覺得自己的角色是人生不可分割的一部份．無印滿等的時候，戰士第一次站上了一個可以跟其他職業公平競爭的pvp舞台．以前只要看到別人等級比我高，基本上都是miss的．野外也會被當成行動榮譽atm在刷．滿級之後，靠著斬殺都可以輕鬆無腦擠進分數榜前幾名．遊戲體驗瞬間變好．&lt;/p&gt;&#xA;&lt;p&gt;自從上tbc之後，解任務的裝備變超強．爆擊率跟命中率都直線飛上天．但同時小怪變強幅度也大，打擊感倒是沒什麼變．雖然拓荒跟無印時期差不多，但外遇的場景偏無聊，打起來很壓抑．加上無印的音樂太強了，外域反而就沒那麼好玩．另外，雖然外域打副本變方便了，只要去集合石就可以把人拉過來．副本也很線性，不用需要查攻略找地圖．但同時副本變成了刷刷樂，不像無印時期可以打個哀嚎洞穴都搞得莫名史詩感．&lt;/p&gt;&#xA;&lt;p&gt;想來想去，最懷念的還是無印時期，身為一個不能solo的戰士跟別人一起打副本的感覺．所以，我就剪了個影片是我回去單刷各個副本的boss．&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h5 id=&#34;youtube-video&#34;&gt;Youtube video&lt;/h5&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/rdTKt6uwPJc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
     </item>
     <item>
       <title>到底是誰寫的</title>
-      <link>https://kanghsi1006.github.io/blog/post-1/</link>
+      <link>http://localhost:1313/blog/post-1/</link>
       <pubDate>Fri, 24 Apr 2026 10:07:47 +0600</pubDate>
-      <guid>https://kanghsi1006.github.io/blog/post-1/</guid>
+      <guid>http://localhost:1313/blog/post-1/</guid>
       <description>&lt;p&gt;這是阿夯最愛聽的睡前故事之一，當時正在x外面的沙排場地講電話（那時候Xhale還在）&lt;/p&gt;&#xA;&lt;h1 id=&#34;正文&#34;&gt;正文&lt;/h1&gt;&#xA;&lt;p&gt;阿利跟百翔是電視台的員工，阿利是主播，而百翔是攝影．這天下播阿利如往常一般，跟百翔一起去吃宵夜．大家都在傳，他們兩個有曖昧，而事實也是如此．百翔早就想跟阿利告白了，只是他個性溫吞，遲遲沒有動作．&lt;/p&gt;&#xA;&lt;p&gt;宵夜吃到一半，阿利突然拿出一張卡片．“這是什麼？”百翔好奇地問道．&lt;/p&gt;&#xA;&lt;p&gt;“這是仰慕者送我的卡片呢～看來我行情真好”阿利回到．&lt;/p&gt;&#xA;&lt;p&gt;“那真是恭喜你啊，是誰送的呀？”百翔接著問．&lt;/p&gt;&#xA;&lt;p&gt;“這我就不知道了，他的署名是 Shawn，你有認識電視台哪個人名字叫做Shawn的嗎？&lt;/p&gt;&#xA;&lt;p&gt;&amp;mdash;&amp;mdash;-接下來一週，阿利在電視台到處打聽Shawn的資訊，不過一無所獲．整個公司的員工，從董事會到打掃阿伯，只要是生活周遭的人阿利都一一詢問，卻始終沒有Shawn的下落．&lt;/p&gt;&#xA;&lt;p&gt;某日下班，阿利跟百翔又如往常一樣下播之後去吃宵夜．&lt;/p&gt;&#xA;&lt;p&gt;“哎，我已經把整個公司都翻遍了，都一直找不到這個Shawn，老天真的是跟我開了一個很大的玩笑啊．“&lt;/p&gt;&#xA;&lt;p&gt;”&amp;hellip;&amp;hellip;..&amp;quot;&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;好不容易有人追，卻表明心意之後就消失，到底是什麼奇怪的狀況．“&lt;/p&gt;&#xA;&lt;p&gt;”&amp;hellip;&amp;hellip;..&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;“你今天好安靜喔，你幹嘛都不說話，百翔？“&lt;/p&gt;&#xA;&lt;p&gt;”你確定人家的名字叫做Shawn嗎？會不會是看錯了？“百翔安靜許久後才脫口而出．&lt;/p&gt;</description>
     </item>
   </channel>

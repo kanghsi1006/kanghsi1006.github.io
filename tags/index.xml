@@ -2,38 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 荷狸的家</title>
-    <link>https://kanghsi1006.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on 荷狸的家</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Apr 2026 10:07:47 +0600</lastBuildDate>
-    <atom:link href="https://kanghsi1006.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 May 2026 10:07:47 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>“生活”</title>
+      <link>http://localhost:1313/tags/%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Mon, 11 May 2026 10:07:47 +0600</pubDate>
+      <guid>http://localhost:1313/tags/%E7%94%9F%E6%B4%BB/</guid>
+      <description></description>
+    </item>
     <item>
       <title>謎題</title>
-      <link>https://kanghsi1006.github.io/tags/%E8%AC%8E%E9%A1%8C/</link>
+      <link>http://localhost:1313/tags/%E8%AC%8E%E9%A1%8C/</link>
       <pubDate>Wed, 29 Apr 2026 10:07:47 +0600</pubDate>
-      <guid>https://kanghsi1006.github.io/tags/%E8%AC%8E%E9%A1%8C/</guid>
+      <guid>http://localhost:1313/tags/%E8%AC%8E%E9%A1%8C/</guid>
       <description></description>
     </item>
     <item>
       <title>魔獸世界</title>
-      <link>https://kanghsi1006.github.io/tags/%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C/</link>
+      <link>http://localhost:1313/tags/%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C/</link>
       <pubDate>Sun, 26 Apr 2026 10:07:47 +0600</pubDate>
-      <guid>https://kanghsi1006.github.io/tags/%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C/</guid>
+      <guid>http://localhost:1313/tags/%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C/</guid>
       <description></description>
     </item>
     <item>
       <title>搞笑</title>
-      <link>https://kanghsi1006.github.io/tags/%E6%90%9E%E7%AC%91/</link>
+      <link>http://localhost:1313/tags/%E6%90%9E%E7%AC%91/</link>
       <pubDate>Sat, 25 Apr 2026 10:07:47 +0600</pubDate>
-      <guid>https://kanghsi1006.github.io/tags/%E6%90%9E%E7%AC%91/</guid>
+      <guid>http://localhost:1313/tags/%E6%90%9E%E7%AC%91/</guid>
       <description></description>
     </item>
     <item>
       <title>睡前故事</title>
-      <link>https://kanghsi1006.github.io/tags/%E7%9D%A1%E5%89%8D%E6%95%85%E4%BA%8B/</link>
+      <link>http://localhost:1313/tags/%E7%9D%A1%E5%89%8D%E6%95%85%E4%BA%8B/</link>
       <pubDate>Fri, 24 Apr 2026 10:07:47 +0600</pubDate>
-      <guid>https://kanghsi1006.github.io/tags/%E7%9D%A1%E5%89%8D%E6%95%85%E4%BA%8B/</guid>
+      <guid>http://localhost:1313/tags/%E7%9D%A1%E5%89%8D%E6%95%85%E4%BA%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Game</title>
+      <link>http://localhost:1313/tags/game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/game/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HTML</title>
+      <link>http://localhost:1313/tags/html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New</title>
+      <link>http://localhost:1313/tags/new/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/new/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Photos</title>
+      <link>http://localhost:1313/tags/photos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/photos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/python/</guid>
       <description></description>
     </item>
   </channel>
